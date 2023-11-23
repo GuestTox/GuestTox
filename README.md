@@ -14,8 +14,9 @@ Your casual __dumbass__.
 * HTML
 * CSS
 * JavaScript
+* Java
 
 # Languages I want to learn:
-* Java
+* dunno
 
 <div><h1>hi</h1></div>
