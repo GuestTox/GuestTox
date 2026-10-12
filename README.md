@@ -13,7 +13,7 @@
       <a href="https://instagram.com/@guesttox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@guesttox" height="30" width="30" /></a>
     </td>
     <td width="50%" align="center">
-      <img src="./lo9oh13frxne1.gif" width="300" style="border-radius: 10px;"/>
+      <img src="./lo9oh13frxne1.gif" width="400" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
