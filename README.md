@@ -8,7 +8,7 @@
   <tr>
     <td width="50%">
       <h3>Sami | Aspiring Robotics & Embedded Systems Engineer</h3>
-      <p>I am a 17-year-old student from Algeria. I am currently preparing for the 2026 Maths BAC with a target of 17+ and aiming to pursue a career in high-tech engineering.</p>
+      <p>I am a 17-year-old algerian student persuing my bachelor's degree in Computer Science. I'm aiming to complete my course in Machine learning and AI.</p>
       <p><b>📫 How to reach me:</b></p>
       <a href="https://instagram.com/@guesttox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@guesttox" height="30" width="30" /></a>
     </td>
